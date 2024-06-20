@@ -121,7 +121,7 @@ There are two ways of customizing your website. You can either:
     curriculum  taught in your workshop, and `title` (overall title for all pages).
 
     Editing hints are embedded in `_config.yml`,
-    and full instructions are in [the customization instructions][customization].
+    and full instructions are in [the customization instructions][customization]..
 
 5. Edit the `schedule.html` file to edit the schedule for your upcoming workshop. This file is
    located in the `_includes` directory, make sure to choose the one from the appropriate `dc` (Data
